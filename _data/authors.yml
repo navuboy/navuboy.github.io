@@ -1,0 +1,31 @@
+default:
+  initial:      nav74neet
+  name:         "Navneet Paul"
+  cover:        /assets/machu_lacta_reduced.jpg
+  picture:      /assets/wulfe.jpg
+  bio:          Robotics & Machine Learning Researcher
+  location:     Bangalore
+  website:      "http://nav74neet.github.io/about"
+  email:        "navneetpaul@iisc.ac.in"
+  twitter:
+  resume:       true
+  linkedin:
+  xing:
+  github:       nav74neet
+  stackoverflow:
+  facebook:
+  gplus:
+  soundcloud:
+  youtube:
+  pinterest:
+  dribble:
+  behance:
+nav74neet:
+  initial:      nav74neet
+  name:         "Navneet Paul"
+  cover:        /assets/machu_lacta.jpg
+  picture:      /assets/wulfebw.jpg
+  bio:          Robotics & Machine Learning Researcher.
+  location:     Bangalore
+  website:      "http://nav74neet.github.io/"
+  github:       nav74neet
