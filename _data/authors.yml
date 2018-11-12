@@ -1,8 +1,8 @@
 default:
   initial:      nav74neet
   name:         "Navneet Paul"
-  cover:        /assets/machu_lacta_reduced.jpg
-  picture:      /assets/wulfe.jpg
+  cover:        /assets/iisc_2.jpeg
+  picture:      /assets/navneet.png
   bio:          Robotics & Machine Learning Researcher
   location:     Bangalore
   website:      "http://nav74neet.github.io/about"
@@ -23,8 +23,8 @@ default:
 nav74neet:
   initial:      nav74neet
   name:         "Navneet Paul"
-  cover:        /assets/machu_lacta.jpg
-  picture:      /assets/wulfebw.jpg
+  cover:        /assets/iisc_2.jpeg
+  picture:      /assets/navneet.png
   bio:          Robotics & Machine Learning Researcher.
   location:     Bangalore
   website:      "http://nav74neet.github.io/"
