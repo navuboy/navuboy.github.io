@@ -7,6 +7,3 @@ I recently joined <a href="http://www.rbccps.org/" class="md-link">Robert Bosch 
 
 <p class="about-p">
 Prior to joining RBCCPS, I also worked at the <a href="https://sites.google.com/site/compintellab/home" class="md-link">Computational Intelligence Laboratory</a> & <a href="https://sites.google.com/site/compintellab/home/uavla" class="md-link">Advanced Flight Simulation Laboratory</a> at the Aerospace Engineering Division of <a href="https://iisc.ac.in/" class="md-link">Indian Institute of Science(IISc)</a>, under the supervision of <a href="http://www.aero.iisc.ernet.in/people/s-n-omkar/" class="md-link">Dr. S N Omkar</a> (Chief Research Scientist) as a Project Assistant (August,2017-July,2018). My research primarily focused on developing simulation frameworks related to several robot learning algorithms for bipedal walking robot and autonomous navigation of UAVs in indoor environments.</p>   
-
-<p class="about-p">
-My research interests are in the domain of robot learning with emphasis on reinforcement learning & imitational learning, optimal control, human-robot collaboration, simulations, etc.</p> 
