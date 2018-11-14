@@ -2,7 +2,7 @@ default:
   initial:      nav74neet
   name:         "Navneet Paul"
   cover:        /assets/iisc_2.jpeg
-  picture:      /assets/nav74neet.jpg
+  picture:      /assets/navneet.jpg
   bio:          Robotics & Machine Learning Researcher
   location:     Bangalore
   website:      "http://nav74neet.github.io/about"
@@ -24,7 +24,7 @@ nav74neet:
   initial:      nav74neet
   name:         "Navneet Paul"
   cover:        /assets/iisc_2.jpeg
-  picture:      /assets/nav74neet.jpg
+  picture:      /assets/navneet.jpg
   bio:          Robotics & Machine Learning Researcher.
   location:     Bangalore
   website:      "http://nav74neet.github.io/"
