@@ -33,7 +33,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg img-border" src="{{ site.github.url }}/media/drone_qlearning.gif" />
+        <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" />
     </div>
     <div class="col-md-6">
         <h3 class="rtitle">Q-Learning for autonomous navigation of UAVs in indoor environments.</h3>
