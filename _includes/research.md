@@ -14,15 +14,15 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/behavior_sig.png" />
+        <img class="rimg" src="{{ site.github.url }}/media/biped_training.gif" />
     </div>
     <div class="col-md-6">
         <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
         <p>
         Machine learning algorithms have found several applications in the field of robotics and control systems.The control systems community has started to show interest towards several machine learning algorithms from the sub-domains such as supervised learning, imitation learning and reinforcement learning to achieve autonomous control and intelligent decision making. Amongst many complex control problems, stable bipedal walking has been the most challenging problem. In this paper, we present an architecture to design and simulate a planar bipedal walking robot(BWR) using a realistic robotics simulator, Gazebo. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics. The autonomous walking of the BWR is achieved using reinforcement learning algorithm called Deep Deterministic Policy Gradient(DDPG). DDPG is one of the algorithms for learning controls in continuous action spaces. After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.
         </p>
-        <a href="https://github.com/wulfebw/risk_prediction" class="md-link btn-default btn rbtn">code</a>
-        <a href="https://arxiv.org/abs/1802.01532" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
+        <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">video</a>
     </div>
   </div>
