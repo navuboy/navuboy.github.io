@@ -19,7 +19,7 @@
     <div class="col-md-6">
         <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
         <p>
-        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using Deep Deterministic Policy Gradient(DDPG). DDPG is one of the algorithms for learning controls in continuous action spaces. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics. Post training, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s.
+        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong>. DDPG is one of the algorithms for learning controls in continuous action spaces. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics. Post training, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s.
         </p>
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">paper</a>
