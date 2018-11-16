@@ -7,7 +7,7 @@
     <li>Rachael E. Tompa, Blake Wulfe, Mykel J. Kochenderfer, and Michael P. Owen. "Horizontal Maneuver Coordination for Aircraft Collision-Avoidance Systems" in Journal of Aerospace Information Systems, 2018.</li>
 
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
-</ul> --> -->
+</ul> --> 
 
 <h1 class="rsection">Research Descriptions</h1>
 
