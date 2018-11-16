@@ -7,7 +7,7 @@
     <li>Rachael E. Tompa, Blake Wulfe, Mykel J. Kochenderfer, and Michael P. Owen. "Horizontal Maneuver Coordination for Aircraft Collision-Avoidance Systems" in Journal of Aerospace Information Systems, 2018.</li>
 
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
-</ul> -->
+</ul> --> -->
 
 <h1 class="rsection">Research Descriptions</h1>
 
@@ -30,25 +30,26 @@
 
 ---
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg img-border" src="{{ site.github.url }}/media/multiagent_driver_crop.png" />
+        <img class="rimg img-border" src="{{ site.github.url }}/media/drone_qlearning.gif" />
     </div>
     <div class="col-md-6">
-        <h3 class="rtitle">Learning Human Driver Models through Adversarial Imitation</h3>
+        <h3 class="rtitle">Q-Learning for autonomous navigation of UAVs in indoor environments.</h3>
         <p>
-        One potential method for validating autonomous vehicles is to evaluate them in a simulator. For this to work, you need highly realistic models of human driving behavior. Existing <a href="https://arxiv.org/abs/1701.06699" class="md-link">research</a> learned human driver models using <a href="https://arxiv.org/abs/1606.03476" class="md-link">generative adversarial imitation learning</a>, but did so in a single-agent environment. As a result, the model fails when you execute many of the learned policies simultaneously. This research performs training in a multi-agent setting to address this problem.
+        Autonomous navigation of UAVs based on robot-learning techniques(Reinforcement Learning). Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple PID control+Q-Learning algorithm (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment(discrete action space) based on the specified reward policy, backed by the simple position based PID tuned controller.
         </p>
-        <a href="https://github.com/sisl/ngsim_env" class="md-link btn-default btn rbtn">code</a>
-        <a href="https://arxiv.org/abs/1803.01044" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
+        <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a>
+        <!-- <a href="https://arxiv.org/abs/1803.01044" class="md-link btn-default btn rbtn">paper</a> -->
     </div>
   </div>
 </div>
 
 ---
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/uav_value.png" />
@@ -162,6 +163,4 @@
         <a href="https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/div-classtitlecapturing-complexitydiv/22A3C3132AA4F5C6ADAB72DEE1265582" class="md-link btn-default btn rbtn">paper</a>
     </div>
   </div>
-</div>
-
---- -->
+</div> -->
