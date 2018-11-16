@@ -7,14 +7,14 @@
     <li>Rachael E. Tompa, Blake Wulfe, Mykel J. Kochenderfer, and Michael P. Owen. "Horizontal Maneuver Coordination for Aircraft Collision-Avoidance Systems" in Journal of Aerospace Information Systems, 2018.</li>
 
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
-</ul> --> 
+</ul> -->
 
 <h1 class="rsection">Research Descriptions</h1>
 
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/biped_training.gif" />
+        <img class="rimg" src="{{ site.github.url }}/media/trained.gif" />
     </div>
     <div class="col-md-6">
         <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
