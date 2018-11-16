@@ -12,7 +12,7 @@
 <h1 class="rsection">Research Descriptions</h1>
 
 <div class="container-fluid">
-  <div class="row">
+  <div class="column">
     <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/biped_training.gif" />
     </div>
