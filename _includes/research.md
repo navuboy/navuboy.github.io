@@ -10,7 +10,9 @@
 </ul> -->
 
 <h1 class="rsection">Research Descriptions</h1>
-<h2 class="rsection">1. Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</h2>
+<ul>
+<li><h2 class="rsection">Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</h2></li>
+</ul>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
