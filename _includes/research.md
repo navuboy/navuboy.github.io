@@ -30,7 +30,9 @@
   </div>
 </div>
 ---
-<h2 class="rsection">2. Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</h2>
+<ul>
+<li><h2 class="rsection">Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</h2></li>
+</ul>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
