@@ -11,7 +11,7 @@
 
 <h1 class="rsection">Research Descriptions</h1>
 
-<h2>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</h2>
+<h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -31,7 +31,7 @@
 </div>
 ---
 
-<h2>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</h2>
+<h2><u>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
   <div class="row">
