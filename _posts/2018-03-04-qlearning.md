@@ -22,3 +22,7 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 ## Project Video
 
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/SDqPfhUeoCo" frameborder="1" allow="accelerometer; autoplay; encrypted-media" allowfullscreen></iframe>
+
+## References:
+- Pham, Huy X., et al. <b><a href="https://arxiv.org/abs/1801.05086">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).
+- Mnih, Volodymyr, et al. <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><b>Human-level control through deep reinforcement learning.</b></a> Nature 518.7540 (2015)
