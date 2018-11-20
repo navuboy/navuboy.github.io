@@ -11,19 +11,6 @@
 
 <h1 class="rsection">Research Descriptions</h1>
 
-<h2><u>Robert Bosch Center for Cyber Physical Systems, IISc.</u></h2>
-
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-md-12">
-        <h3 class="rtitle">Haptic Device Interface & control with ROS</h3>
-        <p>
-        
-        </p>
-    </div>
-  </div>
-</div>
-
 ---
 
 <h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
