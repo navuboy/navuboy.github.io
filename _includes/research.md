@@ -22,7 +22,7 @@
     <div class="col-md-6">
         <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
         <p style="text-align:justify">
-        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an actor-critic learning framework [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
+        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">GitHub repository</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">arxiv paper</a>
