@@ -8,16 +8,20 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 ---
 ## Intro:
 <p style="text-align:justify">
-- Autonomous navigation of drones(quadrotors) involve complex level of path planing while adopting classical controls approach.
-- Over the years, machine learning approaches have proven to be a promising alternative to the classical control theory. Reinforcement learning, a sub-domain of machine learning methods, has been extensively explored for path planing and autonomous navigation in structured environments (indoors & outdoors).
-- This post is regarding my experiment with Q-Learning & PID tuning, for autonomous navigation of an ardorne (from start to goal position) in gazebo simulation environment.
-- I have tried to implement the work by Pham, Huy X., et al.<b><a href="https://arxiv.org/abs/1801.05086" class="md-link">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).
+<ul>
+<li> Autonomous navigation of drones(quadrotors) involve complex level of path planing while adopting classical controls approach.</li>
+<li> Over the years, machine learning approaches have proven to be a promising alternative to the classical control theory. Reinforcement learning, a sub-domain of machine learning methods, has been extensively explored for path planing and autonomous navigation in structured environments (indoors & outdoors).</li>
+<li> This post is regarding my experiment with Q-Learning & PID tuning, for autonomous navigation of an ardorne (from start to goal position) in gazebo simulation environment.</li>
+<li> I have tried to implement the work by Pham, Huy X., et al.<b><a href="https://arxiv.org/abs/1801.05086" class="md-link">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).</li>
+</ul>
 </p>
 
 ## Outline:
 <p style="text-align:justify">
-- Implement q-learning based RL algorithm for autonomous navigation of ArDrone in a discrete indoor space.
-- PID control is also coupled with the RL approach.
+<ul>
+<li> Implement q-learning based RL algorithm for autonomous navigation of ArDrone in a discrete indoor space.</li>
+<li> PID control is also coupled with the RL approach.</li>
+</ul>
 </p>
 
 ## What's Q-Learning
@@ -29,6 +33,8 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 
 ## References:
 <p style="text-align:justify">
-- Pham, Huy X., et al. <b><a href="https://arxiv.org/abs/1801.05086">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).
-- Mnih, Volodymyr, et al. <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><b>Human-level control through deep reinforcement learning.</b></a> Nature 518.7540 (2015)
+<ul>
+<li> Pham, Huy X., et al. <b><a href="https://arxiv.org/abs/1801.05086">Autonomous uav navigation using reinforcement learning.</a></b> arXiv preprint arXiv:1801.05086 (2018).</li>
+<li> Mnih, Volodymyr, et al. <a href="https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf"><b>Human-level control through deep reinforcement learning.</b></a> Nature 518.7540 (2015)</li>
+</ul>
 </p>
