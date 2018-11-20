@@ -21,7 +21,7 @@
     </div>
     <div class="col-md-6">
         <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
-        <p>
+        <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an actor-critic learning framework [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">GitHub repository</a>
@@ -42,7 +42,7 @@
     </div>
     <div class="col-md-6">
         <h3 class="rtitle">Q-Learning for autonomous navigation of UAVs in indoor environments.</h3>
-        <p>
+        <p style="text-align:justify">
         Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple <strong>PID control+Q-Learning algorithm</strong> (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment(discrete action space) based on the specified reward policy, backed by the simple position based PID tuned controller.
         </p>
         <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">GitHub repository</a>
