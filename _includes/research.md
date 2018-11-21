@@ -24,8 +24,8 @@
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
-        <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">GitHub repository</a>
-        <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">arxiv paper</a>
+        <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
+        <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">video</a>
     </div>
   </div>
@@ -45,8 +45,8 @@
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple <strong>PID control+Q-Learning algorithm</strong> (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment[discrete action space] based on the specified reward policy, backed by the simple position based PID tuned controller.
         </p>
-        <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">GitHub repository</a>
-        <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">arxiv paper</a>
+        <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
+        <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a>
    </div>
   </div>
