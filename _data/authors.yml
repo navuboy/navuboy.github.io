@@ -10,6 +10,7 @@ default:
   twitter:
   resume:       true
   linkedin:
+  googlescholar:
   xing:
   github:       nav74neet
   stackoverflow:
@@ -30,3 +31,4 @@ nav74neet:
   website:      "http://nav74neet.github.io/"
   github:       nav74neet
   linkedin:     "https://www.linkedin.com/in/navneet-paul-94a806101/"
+  googlecholar: "https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en"
