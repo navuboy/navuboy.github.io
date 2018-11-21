@@ -29,6 +29,7 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 <li> gym: 0.9.3</li>
 <li> TensorFLow 1.1.0 (preferrable with GPU support)</li>
 <li> Python 2.7</li>
+</p>
 
 ## Project Video
 
