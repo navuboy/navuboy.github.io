@@ -59,7 +59,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle">Learning to control</h3>
+        <h3 class="rtitle">Learning to control through imitation.</h3>
         <p style="text-align:justify">
         Current research relates to the fusion of learning and control in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion) for realizing a wide variety of complex behaviors in nonlinear systems. Research is funded by and in collaboration with Yaskawa India Private Limited.
         </p>
