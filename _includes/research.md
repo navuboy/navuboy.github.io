@@ -81,7 +81,7 @@
     <div class="col-md-12">
         <h3 class="rtitle">Anthropomorphic Robotic Arm(ARA)</h3>
         <p style="text-align:justify">
-        A.R.A. - acronym for Anthropomorphic Robotic Arm aims at implementing a cobot (collaborative robots) environment or commonly called, Human Robot Interaction during various industrial automated processes. A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB 1600 ID industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the ABB IRC5 controller via a custom build step-down voltage regulator circuit board.
+        A.R.A. - acronym for Anthropomorphic Robotic Arm aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB 1600 ID industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the ABB IRC5 controller via a custom designed step-down voltage regulator circuit board.
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
@@ -89,6 +89,8 @@
     </div>
   </div>
 </div>
+
+---
 
 <!-- <div class="container-fluid">
   <div class="row">
