@@ -9,7 +9,7 @@
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
 </ul> -->
 
-<h1 class="rsection">Research Descriptions</h1>
+<h1 class="rsection">Research</h1>
 ---
 
 <h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
@@ -70,6 +70,25 @@
 </div>
 
 ---
+
+<h1 class="rsection">Projects</h1>
+---
+
+<h2><u>ABB Robotics Motion Division, Bangalore</u></h2>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+        <h3 class="rtitle">Anthropomorphic Robotic Arm(ARA)</h3>
+        <p style="text-align:justify">
+        A.R.A. - acronym for Anthropomorphic Robotic Arm aims at implementing a cobot (collaborative robots) environment or commonly called, Human Robot Interaction during various industrial automated processes. A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB 1600 ID industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the ABB IRC5 controller via a custom build step-down voltage regulator circuit board.
+        </p>
+        <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
+        <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a>
+    </div>
+  </div>
+</div>
 
 <!-- <div class="container-fluid">
   <div class="row">
