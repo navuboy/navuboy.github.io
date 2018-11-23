@@ -61,7 +61,7 @@
     <div class="col-md-12">
         <h3 class="rtitle">Learning to control</h3>
         <p style="text-align:justify">
-        Current research relates to the fusion of learning and control in the domain of manipulation. The field of “learning to control” is getting a lot of attention of late. Traditional methods of applying control involve a rigorous formal analysis of stability, convergence rates, and also stability margins for a wide variety of nonlinear dynamical systems. But these methods often become very complex and computationally expensive as system complexities increase. On the other hand, learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior data to obtain seemingly simple control tasks for realizing a wide variety of complex behaviors in nonlinear systems. 
+        Current research relates to the fusion of learning and control in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion) for realizing a wide variety of complex behaviors in nonlinear systems. Research is funded by and in collaboration with Yaskawa India Private Limited.
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
