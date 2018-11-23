@@ -54,24 +54,24 @@
 
 ---
 
-<!-- <div class="container-fluid">
+<h2><u>Robert Bosch Center for Cyber Physical Systems, IISc.</u></h2>
+
+<div class="container-fluid">
   <div class="row">
-    <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/uav_value.png" />
-    </div>
-    <div class="col-md-6">
-        <h3 class="rtitle">Deep Reinforcement Learning for Collision Avoidance</h3>
-        <p>
-        We learn UAV collision avoidance policies directly from a simulator with a Deep Q-Network (DQN). This approach not only solves for policies more quickly than value iteration, but also arrives at safer and more efficient solutions by learning a direct mapping from the state space instead of discretizing it.
+    <div class="col-md-12">
+        <h3 class="rtitle">Learning to control</h3>
+        <p style="text-align:justify">
+        Current research relates to the fusion of learning and control in the domain of manipulation. The field of “learning to control” is getting a lot of attention of late. Traditional methods of applying control involve a rigorous formal analysis of stability, convergence rates, and also stability margins for a wide variety of nonlinear dynamical systems. But these methods often become very complex and computationally expensive as system complexities increase. On the other hand, learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior data to obtain seemingly simple control tasks for realizing a wide variety of complex behaviors in nonlinear systems. 
         </p>
-        <a href="{{ site.github.url }}/assets/CS238_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
+        <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
     </div>
   </div>
 </div>
 
 ---
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/joint_actions_reduced.jpg" />
@@ -168,4 +168,4 @@
         <a href="https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/div-classtitlecapturing-complexitydiv/22A3C3132AA4F5C6ADAB72DEE1265582" class="md-link btn-default btn rbtn">paper</a>
     </div>
   </div>
-</div> -->
+</div> --> -->
