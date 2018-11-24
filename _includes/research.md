@@ -11,6 +11,23 @@
 
 <h1 class="rsection">Research</h1>
 
+<h2><u>Robert Bosch Center for Cyber Physical Systems, IISc.</u></h2>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+        <h3 class="rtitle">Learning to control through imitation.</h3>
+        <p style="text-align:justify">
+        Current research relates to the fusion of learning and control in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion) for realizing a wide variety of complex behaviors in nonlinear systems. In collaboration with Yaskawa India Private Limited.
+        </p>
+        <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
+    </div>
+  </div>
+</div>
+
+---
+
 <h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
@@ -32,6 +49,8 @@
 
 ---
 
+<h1 class="rsection">Projects</h1>
+
 <h2><u>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
@@ -52,25 +71,6 @@
 </div>
 
 ---
-
-<h2><u>Robert Bosch Center for Cyber Physical Systems, IISc.</u></h2>
-
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-md-12">
-        <h3 class="rtitle">Learning to control through imitation.</h3>
-        <p style="text-align:justify">
-        Current research relates to the fusion of learning and control in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion) for realizing a wide variety of complex behaviors in nonlinear systems. In collaboration with Yaskawa India Private Limited.
-        </p>
-        <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
-        <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
-    </div>
-  </div>
-</div>
-
----
-
-<h1 class="rsection">Projects</h1>
 
 <h2><u>ABB Robotics Motion Division, Bangalore</u></h2>
 
