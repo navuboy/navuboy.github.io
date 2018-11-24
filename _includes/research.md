@@ -28,7 +28,7 @@
 
 ---
 
-<h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
+<h2><u>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
   <div class="row">
