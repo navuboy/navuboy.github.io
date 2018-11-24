@@ -10,7 +10,6 @@
 </ul> -->
 
 <h1 class="rsection">Research</h1>
----
 
 <h2><u>Compuational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
