@@ -19,7 +19,7 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 ## What's Q-Learning
 <p style="text-align:justify">In a RL setting, the agent regularly updates its knowledge of the environment through constant interactions and feedbacks. Hence we assume the environment to be a Markovian tuple [S, A, T, R] where the next state (S<sub>t+1</sub>) and reward (R<sub>t+1</sub>) of the agent depends on the current state (S<sub>t</sub>). (to be continued)</p>
 
-## Prerequisites/Requirements:
+<!-- ## Prerequisites/Requirements:
 <p style="text-align:justify">These include the system requirements and packages used for the simulation setup.</p>
 <p style="text-align:justify">
 <li> Ubuntu 16.04</li>
@@ -29,7 +29,7 @@ tags: reinforcement learning, q-learning, pid, uavs, autonomous navigation
 <li> gym: 0.9.3</li>
 <li> TensorFLow 1.1.0 (preferrable with GPU support)</li>
 <li> Python 2.7</li>
-</p>
+</p> -->
 
 ## Project Video
 
