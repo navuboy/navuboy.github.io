@@ -1,7 +1,7 @@
 default:
   initial:      nav74neet
   name:         "Navneet Paul"
-  cover:        /assets/iisc_2.jpeg
+  cover:        /media/drone_qlearning.gif/
   picture:      /assets/nav.png
   bio:          Robotics & Machine Learning Researcher
   location:     Bangalore
@@ -24,11 +24,11 @@ default:
 nav74neet:
   initial:      nav74neet
   name:         "Navneet Paul"
-  cover:        /assets/iisc_2.jpeg
+  cover:        /media/drone_qlearning.gif/
   picture:      /assets/nav.png
   bio:          Robotics & Machine Learning Researcher.
   location:     Bangalore
   website:      "http://nav74neet.github.io/"
   github:       nav74neet
   linkedin:     "https://www.linkedin.com/in/navneet-paul-94a806101/"
-  googlecholar: "https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en"
