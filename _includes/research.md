@@ -72,6 +72,25 @@
 
 ---
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6">
+        <img class="rimg" src="{{ site.github.url }}/media/mocap.png" />
+    </div>
+    <div class="col-md-6">
+        <h3 class="rtitle">Human Motion Analysis using Optical Motion Capture system.</h3>
+        <p style="text-align:justify">
+        Worked on real-time human motion-biomechanics, using Optitrack motion capture system & musculoskeletal modelling analysis through Adams LifeMod & OpenSim simulation platforms. Analysed the muscle activation and tension patterns in various muscle groups and evaluated the torque and force generated at the joints connecting various body segments during motion using musculoskeletal modelling and simulation(in LifeMod/OpenSim). The study has considerable applications in the field of humanoid-robotics, medicine(Prosthetics, rehabilitation), etc.
+        </p>
+        <!-- <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a> -->
+        <a href="http://www.ijoy.org.in/text.asp?2018/11/3/201/240316" class="md-link btn-default btn rbtn">paper</a>
+        <!-- <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a> -->
+   </div>
+  </div>
+</div>
+
+---
+
 <h2><u>ABB Robotics Motion Division, Bangalore</u></h2>
 
 <div class="container-fluid">
