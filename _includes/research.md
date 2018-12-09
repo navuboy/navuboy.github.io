@@ -16,7 +16,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle">Learning to control through imitation.</h3>
+        <h3 class="rtitle"><b>Learning to control through imitation.</b></h3>
         <p style="text-align:justify">
         Current research relates to the fusion of learning and control in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion) for realizing a wide variety of complex behaviors in nonlinear systems. In collaboration with Yaskawa India Private Limited.
         </p>
@@ -36,7 +36,7 @@
         <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
     </div>
     <div class="col-md-6">
-        <h3 class="rtitle">Bipedal walking robot using Deep Deterministic Policy Gradient</h3>
+        <h3 class="rtitle"><b>Bipedal walking robot using Deep Deterministic Policy Gradient.</b></h3>
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
@@ -57,7 +57,7 @@
         <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" />
     </div>
     <div class="col-md-6">
-        <h3 class="rtitle">Q-Learning for autonomous navigation of UAVs in indoor environments.</h3>
+        <h3 class="rtitle"><b>Q-Learning for autonomous navigation of UAVs in indoor environments.</b></h3>
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple <strong>PID control+Q-Learning algorithm</strong> (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment[discrete action space] based on the specified reward policy, backed by the simple position based PID tuned controller.
         </p>
@@ -77,7 +77,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle">Anthropomorphic Robotic Arm(ARA)</h3>
+        <h3 class="rtitle"><b>Anthropomorphic Robotic Arm(ARA).</b></h3>
         <p style="text-align:justify">
         <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board.
         </p>
