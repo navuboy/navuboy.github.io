@@ -84,9 +84,9 @@
         <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a>
     </div>
-    <div class="col-md-6.">
+    <!-- <div class="col-md-6.">
         <img class="rimg" src="{{ site.github.url }}/media/abb.png" />
-    </div>
+    </div> -->
   </div>
 </div>
 
