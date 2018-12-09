@@ -26,7 +26,6 @@
   </div>
 </div>
 
----
 
 <h2><u>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
@@ -47,7 +46,6 @@
   </div>
 </div>
 
----
 
 <h2><u>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
@@ -68,7 +66,6 @@
   </div>
 </div>
 
----
 
 <h2><u>ABB Robotics Motion Division, Bangalore</u></h2>
 
@@ -85,7 +82,6 @@
   </div>
 </div>
 
----
 
 <!-- <div class="container-fluid">
   <div class="row">
