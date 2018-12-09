@@ -11,7 +11,7 @@
 
 <h1 class="rsection">Research</h1>
 
-<h2>Robert Bosch Center for Cyber Physical Systems, IISc.</h2>
+<h2><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -28,7 +28,7 @@
 
 ---
 
-<h2>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</h2>
+<h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -49,7 +49,7 @@
 
 ---
 
-<h2>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</h2>
+<h2><b>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</b></h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -72,7 +72,7 @@
 
 <h1 class="rsection">Projects</h1>
 
-<h2>ABB Robotics Motion Division, Bangalore</h2>
+<h2><b>ABB Robotics Motion Division, Bangalore</b></h2>
 
 <div class="container-fluid">
   <div class="row">
