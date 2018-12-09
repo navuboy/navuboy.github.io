@@ -53,7 +53,7 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-5">
+    <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" />
     </div>
     <div class="col-md-6">
