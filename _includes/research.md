@@ -49,8 +49,6 @@
 
 ---
 
-<h1 class="rsection">Projects</h1>
-
 <h2><u>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</u></h2>
 
 <div class="container-fluid">
