@@ -72,7 +72,7 @@
 
 <h1 class="rsection">Projects</h1>
 
-<h2><u>ABB Robotics Motion Division, Bangalore</u></h2>
+<h2>ABB Robotics Motion Division, Bangalore</h2>
 
 <div class="container-fluid">
   <div class="row">
