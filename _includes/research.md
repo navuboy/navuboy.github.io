@@ -9,7 +9,7 @@
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
 </ul> -->
 
-<h1 class="rsection">Research</h1>
+<h1 class="rsection"><b>Research</b></h1>
 
 <h2><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h2>
 
@@ -70,7 +70,7 @@
 
 ---
 
-<h1 class="rsection">Projects</h1>
+<h1 class="rsection"><b>Projects</b></h1>
 
 <h2><b>ABB Robotics Motion Division, Bangalore</b></h2>
 
