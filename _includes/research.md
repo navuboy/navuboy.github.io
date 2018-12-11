@@ -49,7 +49,7 @@
 
 ---
 
-<h2><b><u>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</u></b></h2>
+<h2><b>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</b></h2>
 
 <div class="container-fluid">
   <div class="row">
