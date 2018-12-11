@@ -1,7 +1,7 @@
 <p style="text-align:left" >
 <b>Contact:</b>
 </p>
-<p style="text-align:justify" >
+<p style="text-align:left" >
 <ul>
   <li>Email: nav74neet.paul[at]gmail.com</li>
   <li>Twitter: <a href="https://twitter.com/nav74neet">nav74neet</a></li>
