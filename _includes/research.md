@@ -56,7 +56,7 @@
     <div class="col-md-6">
         <h3 class="rtitle"><b>Q-Learning for autonomous navigation of UAVs in indoor environments.</b></h3>
         <p style="text-align:justify">
-        Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple <strong>PID control+Q-Learning</strong> (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment[discrete action space] based on the specified reward policy, backed by the simple position based PID tuned controller. A reward of -1 was given upon not ending up in the goal state and a reward of +100 was awarded for reaching to the goal.
+        Indoor Path Planning and Navigation of an Unmanned Aerial Vehicle (UAV) based on simple <strong>PID control+Q-Learning</strong> (Reinforcement Learning). The quadrotor manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment[discrete action space]. A reward of -1 was given upon not ending up in the goal state and a reward of +100 was awarded for reaching to the goal.
         </p>
         <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">paper</a>
