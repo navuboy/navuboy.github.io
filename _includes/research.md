@@ -16,9 +16,9 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle"><b>Learning manipulation tasks using Generative Adversarial Imitation Learning.</b></h3>
+        <h3 class="rtitle"><b>Learning to manipulate using Generative Adversarial Imitation Learning.</b></h3>
         <p style="text-align:justify">
-        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial imitation learning & deep reinforcement learning</strong>) have a huge advantage of using prior human demonstration data to obtain seemingly simple control tasks (like peg-in-hole insertion or simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. <!-- In collaboration with Yaskawa India Private Limited. -->
+        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial learning & deep reinforcement learning</strong>) have a huge advantage of leveraging prior human demonstrations to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [on-going project] <!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
