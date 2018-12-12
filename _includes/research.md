@@ -33,7 +33,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/trained.gif" />
+        <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
     </div>
     <div class="col-md-6">
         <h3 class="rtitle"><b>Bipedal walking robot using Deep Deterministic Policy Gradient.</b></h3>
