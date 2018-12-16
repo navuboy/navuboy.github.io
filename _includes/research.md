@@ -54,7 +54,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <h3 class="rtitle"><b><a href="{{ site.github.url }}/uav.html" class="main-link">Q-Learning for autonomous navigation of UAVs in indoor environments</a></b></h3>
+        <h4 class="rtitle"><b><a href="{{ site.github.url }}/uav.html" class="main-link">Q-Learning for autonomous navigation of UAVs in indoor environments</a></b></h4>
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
         </p>
