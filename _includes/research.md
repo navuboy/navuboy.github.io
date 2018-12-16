@@ -64,7 +64,7 @@
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a> -->
    </div>
    <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="Q-Learning" style="border:2px solid black;">
+        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:2px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
     </div>
   </div>
