@@ -12,7 +12,7 @@
 <h1 class="rsection"><b>Research</b></h1>
 
 <h3><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h3>
-<br>
+<!-- <br> -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
@@ -29,7 +29,7 @@
 ---
 
 <h3><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h3>
-<br>
+<!-- <br> -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
@@ -50,7 +50,7 @@
 ---
 
 <h2><b>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</b></h2>
-<br>
+<!-- <br> -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
