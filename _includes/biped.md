@@ -15,6 +15,16 @@
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
+        <center>
+            <div class="image-wrapper">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
+                    <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
+                </a>
+                <p class="image-caption" style="font-size:14px;" align="center">
+                    Stable Bipedal walking robot
+                </p>
+                </div>
+                </center>    
         <p style="text-align:justify">
         After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
         <p style="text-align:center">
