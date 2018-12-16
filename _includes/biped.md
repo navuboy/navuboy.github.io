@@ -17,16 +17,26 @@
         </p>
         <center>
             <div class="image-wrapper">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/biped_training.gif" title="DDPG">
+                    <img src="https://nav74neet.github.io/media/biped_training.gif" alt="DDPG" style="border:2px solid black;" align="middle">
+                </a>
+                <p class="image-caption" style="font-size:14px;" align="middle">
+                    Learning to walk - initial baby steps.
+                </p>
+            </div>
+        </center>    
+        <p style="text-align:justify">
+        After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
+        <center>
+            <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
                 <p class="image-caption" style="font-size:14px;" align="middle">
-                    Stable Bipedal walking robot
+                    Stable Bipedal walking robot.
                 </p>
-                </div>
-                </center>    
-        <p style="text-align:justify">
-        After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
+            </div>
+        </center>
         <p style="text-align:center">
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">Code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">Paper</a>
