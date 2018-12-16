@@ -1,1 +1,2 @@
 <h2 class="rsection"><b>Navneet Paul</b></h2>
+<h3 class="rsection"><a href="http://www.rbccps.org/" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://github.com/nav74neet" class="md-link">nav74neet</a> |  <a href="https://github.com/nav74neet" class="md-link">@nav74neet</a> | <a href="https://github.com/nav74neet" class="md-link">Google Scholar</a></h3>
