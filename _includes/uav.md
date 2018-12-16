@@ -15,8 +15,8 @@
         <br>
         <center>
             <div class="image-wrapper">
-                <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
-                    <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/drone_qlearning.gif" title="UAV">
+                    <img src="https://nav74neet.github.io/media/trained.gif" alt="UAV" style="border:2px solid black;" align="middle">
                 </a>
                 <p class="image-caption" style="font-size:14px;" align="center">
                     Stable Bipedal walking robot.
