@@ -5,3 +5,4 @@
         Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation.
 </p>
 
+
