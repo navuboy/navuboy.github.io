@@ -13,8 +13,8 @@
         </p>
         <br>
         <img class="center" src="{{ site.github.url }}/media/abb.png" />
-        <!-- <figcaption><font size="0.5">ARA robot at the ABB Robotics Motion Division, Bangalore.</font></figcaption> -->
         <br>
+        <!-- <figcaption><font size="0.5">ARA robot at the ABB Robotics Motion Division, Bangalore.</font></figcaption> -->
         <p style="text-align:justify">
         This project was carried out during my tenure at ABB Robotics Motion Division, Peenya Industrial area, Bangalore (2017). I primarily worked on the design & fabrication aspects of the 3-D printed humanoid arm, more specifically the servo-motor bed & finger grippers. My other significant contributions involved developing the virtual platform of the robot using ABB RobotStudio for trajectory planning for the robotic arm (in simulation and real-time). Was also involved in the electrical interfacing of the arduino micro-controller to the IRC5 controller via the custom build step-down regulator. 
         </p>
