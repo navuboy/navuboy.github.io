@@ -20,7 +20,7 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
-                <p class="image-caption" style="font-size:14px;" align="center">
+                <p class="image-caption" style="font-size:14px;" align="middle">
                     Stable Bipedal walking robot
                 </p>
                 </div>
