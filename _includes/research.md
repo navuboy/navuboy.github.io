@@ -11,12 +11,12 @@
 
 <h1 class="rsection"><b>Research</b></h1>
 
-<h2><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h2>
+<h3><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h3>
 
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle"><b>Learning to manipulate using Generative Adversarial Imitation Learning.</b></h3>
+        <h4 class="rtitle"><b>Learning to manipulate using Generative Adversarial Imitation Learning.</b></h4>
         <p style="text-align:justify">
         Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial learning & deep reinforcement learning</strong>) have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
@@ -28,7 +28,7 @@
 
 ---
 
-<h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2>
+<h3><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h3>
 
 <div class="container-fluid">
   <div class="row">
@@ -36,7 +36,7 @@
         <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
     </div>
     <div class="col-md-6">
-        <h3 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h3>
+        <h4 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
@@ -72,12 +72,12 @@
 
 <h1 class="rsection"><b>Projects</b></h1>
 
-<h2><b>ABB Robotics Motion Division, Bangalore</b></h2>
+<h3><b>ABB Robotics Motion Division, Bangalore</b></h3>
 
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h3 class="rtitle"><b><a href="{{ site.github.url }}/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h3>
+        <h4 class="rtitle"><b><a href="{{ site.github.url }}/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h4>
         <p style="text-align:justify">
         <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board. 
         </p>
