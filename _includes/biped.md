@@ -20,7 +20,7 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/biped_training.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/biped_training.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
-                <p class="image-caption" style="font-size:14px;" align="middle">
+                <p class="image-caption" style="font-size:14px;" align="center">
                     Learning to walk - initial baby steps.
                 </p>
             </div>
@@ -32,7 +32,7 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
-                <p class="image-caption" style="font-size:14px;" align="middle">
+                <p class="image-caption" style="font-size:14px;" align="center">
                     Stable Bipedal walking robot.
                 </p>
             </div>

@@ -33,7 +33,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
+        <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" style="border:2px solid black />
     </div>
     <div class="col-md-6">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
@@ -63,7 +63,7 @@
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a> -->
    </div>
    <div class="col-md-6">
-        <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" />
+        <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" style="border:2px solid black />
     </div>
   </div>
 </div>
