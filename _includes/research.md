@@ -40,9 +40,9 @@
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
-        <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
+        <!-- <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">paper</a>
-        <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">video</a>
+        <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">video</a> -->
     </div>
   </div>
 </div>
@@ -58,9 +58,9 @@
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
         </p>
-        <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
+        <!-- <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">paper</a>
-        <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a>
+        <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a> -->
    </div>
    <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" />
@@ -81,8 +81,8 @@
         <p style="text-align:justify">
         <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board.
         </p>
-        <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">details</a>
-        <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a>
+        <!-- <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">details</a>
+        <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a> -->
     </div>
   </div>
 </div>
