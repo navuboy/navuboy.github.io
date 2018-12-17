@@ -1,7 +1,7 @@
 
 <h1 class="rsection"><b>Bipedal walking robot using Deep Deterministic Policy Gradient</b></h1>
 
-<!-- <h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2> -->
+<h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2>
 
 <div class="container-fluid">
   <div class="row">
@@ -21,9 +21,11 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/biped_training.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/biped_training.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
-                <p class="image-caption" style="font-size:14px;" align="center">
+                <center>
+                <p class="image-caption" style="font-size:14px;">
                     Learning to walk - initial baby steps.
                 </p>
+                </center>
             </div>
         </center>    
         <p style="text-align:justify">
