@@ -1,13 +1,14 @@
 
 <h1 class="rsection"><b>Bipedal walking robot using Deep Deterministic Policy Gradient</b></h1>
 
-<h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2>
+<!-- <h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2> -->
 
 <div class="container-fluid">
   <div class="row">
     <!-- <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
     </div> -->
+    <center>
     <div class="col-md-12">
         <!-- <h3 class="rtitle"><b>Bipedal walking robot using Deep Deterministic Policy Gradient.</b></h3> -->
         <p style="text-align:justify">
@@ -43,6 +44,7 @@
         <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">Video</a>
         </p>
     </div>
+</center>
   </div>
 </div>
 <br>
