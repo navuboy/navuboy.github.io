@@ -18,7 +18,7 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/drone_qlearning.gif" title="UAV">
                     <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:2px solid black;" align="center">
                 </a>
-                <p class="image-caption" style="font-size:14px;" text-align="center">
+                <p class="image-caption" style="font-size:14px; text-align: center;">
                     Autonomous navigation from start to goal position.
                 </p>
             </div>
