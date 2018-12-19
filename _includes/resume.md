@@ -1,5 +1,5 @@
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
-<h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
+<h3><center>Curriculum Vitae<a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">[PDF]</a></center></h3>
 <center><h4 class="rsection"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://nav74neet.github.io" class="md-link">https://nav74neet.github.io</a> |  <a href="https://twitter.com/nav74neet" class="md-link">@nav74neet</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
 <p style="text-align:justify">
     Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation.
@@ -58,4 +58,7 @@
 <h3>Publications:</h3>
 <p style="text-align:justify;">
 	 <ul>
-	 	<li>Kumar Arun, Navneet Paul, and S. N. Omkar. "Bipedal Walking Robot using Deep Deterministic Policy Gradient." arXiv:1807.05924 (2018). [<a href="https://arxiv.org/abs/1807.05924" class="md-link">arxiv</a>][<a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a>]</li>
+	 	<li>Kumar Arun, Navneet Paul and S. N. Omkar. "Bipedal Walking Robot using Deep Deterministic Policy Gradient." arXiv:1807.05924 (2018). [<a href="https://arxiv.org/abs/1807.05924" class="md-link">arxiv</a>][<a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a>]</li>
+	 </ul>
+
+
