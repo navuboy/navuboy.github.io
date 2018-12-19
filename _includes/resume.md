@@ -41,8 +41,17 @@
 <p style="text-align:justify;">
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
-  		<li><b> Learning Peg-in-hole insertions from human demonstrations - an imitation learning approach.</b></li>
-  		<p style="text-align:justify;">Using Generative Adversarial learning approaches for training industrial robots to learn complex manipulation tasks such peg in hole insertions from prior human demonstrations. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
+  		<li><b> Learning manipulation tasks using generative adversarial learning methods.</b></li>
+  		<p style="text-align:justify;">Using Generative Adversarial learning approaches to leverage human demonstrations for training industrial robots to learn complex manipulation tasks such peg in hole insertions. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
+		<li><b>Deep Deterministic Policy Gradient for Bipedal walking robot.</b></li>
+		<p style="text-align:justify;">A bipedal walking robot was developed in Gazebo simulation environment and Reinforcement learning algorithm, Deep Deterministic Policy Gradient based on actor-critic learning framework was implemented for generating a stable planar bipedal walking patter.</p>
+		<li><b>Q-Learning for autonomous navigation of UAVs in indoor environments</b></li>
+		<p style="text-align:justify;">Q-Learning with a simple PID tuned control was adopted for the autonomous navigation of an ArDrone in a 5x5 grid space in simulation environment.</p>
+		<li><b>Anthropomorphic Robot Arm (ARA)</b></li>
+		<p style="text-align:justify;">A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB
+		1600 ID industrial robot, actuated using servomotors controlled using an Arduino Uno microcontroller
+		which is interfaced to the ABB IRC5 controller via a custom build step-down voltage regulator circuit
+		board.</p>
 	</ul> 
 </p>
 
