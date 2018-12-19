@@ -18,7 +18,7 @@
                     <img src="https://nav74neet.github.io/media/abb.png" alt="ABB" style="border:2px solid black;" align="middle">
                 </a>
                 <center>
-                <p class="image-caption" style="font-size:14px;" align="center">
+                <p class="image-caption" style="font-size:14px;" text-align="center">
                     Anthropomorphic Robot Arm (ARA) at the ABB Robotics Motion Division, Banagalore.
                 </p>
                 </center>
