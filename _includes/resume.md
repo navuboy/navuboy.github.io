@@ -55,3 +55,7 @@
 	</ul> 
 </p>
 
+<h3>Publications:</h3>
+<p style="text-align:justify;">
+	 <ul>
+	 	<li>Kumar Arun, Navneet Paul, and S. N. Omkar. "Bipedal Walking Robot using Deep Deterministic Policy Gradient." arXiv:1807.05924 (2018). [<a href="https://arxiv.org/abs/1807.05924" class="md-link">arxiv</a>][<a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a>]</li>
