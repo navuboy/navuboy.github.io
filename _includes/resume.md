@@ -36,3 +36,13 @@
   			</ul>
 	</ul> 
 </p>
+
+<h3>Projects:</h3>
+<p style="text-align:justify;">
+	 <ul>
+	 <!-- <ul style="list-style-type:circle"> -->
+  		<li><b> Learning Peg-in-hole insertions from human demonstrations - an imitation learning approach.</b></li>
+  		<p style="text-align:justify;">Using Generative Adversarial learning approaches for training industrial robots to learn complex manipulation tasks such peg in hole insertions from prior human demonstrations. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
+	</ul> 
+</p>
+
