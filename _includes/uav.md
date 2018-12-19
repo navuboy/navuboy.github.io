@@ -23,12 +23,12 @@
                 </p>
             </div>
         </center>
-        <center>
+        <p>
         <!-- <img class="center" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
         <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">Code</a>
         <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">Paper</a>
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">Video</a>
-        </center>
+        </p>
   </div>
 </div>
 <br>
