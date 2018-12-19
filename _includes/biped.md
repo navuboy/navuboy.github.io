@@ -1,7 +1,7 @@
 
-<h1 class="rsection"><b>Bipedal walking robot using Deep Deterministic Policy Gradient</b></h1>
+<center><h1 class="rsection"><b>Bipedal walking robot using Deep Deterministic Policy Gradient</b></h1></center>
 
-<h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2>
+<center></center><h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2></center>
 
 <div class="container-fluid">
   <div class="row">
