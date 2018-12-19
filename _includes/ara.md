@@ -1,8 +1,8 @@
 
 
-<h1 class="rsection"><b>Anthropomorphic Robotic Arm(ARA)</b></h1>
+<center><h1 class="rsection"><b>Anthropomorphic Robotic Arm(ARA)</b></h1></center>
 
-<h2><b>ABB Robotics Motion Division, Bangalore</b></h2>
+<center><h2><b>ABB Robotics Motion Division, Bangalore</b></h2></center>
 
 <div class="container-fluid">
   <div class="row">
@@ -17,16 +17,20 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/abb.png" title="ABB">
                     <img src="https://nav74neet.github.io/media/abb.png" alt="ABB" style="border:2px solid black;" align="middle">
                 </a>
+                <center>
                 <p class="image-caption" style="font-size:14px;" align="center">
                     Anthropomorphic Robot Arm (ARA) at the ABB Robotics Motion Division, Banagalore.
                 </p>
+                </center>
             </div>
         </center>
         <p style="text-align:justify">
         This project was carried out during my tenure at ABB Robotics Motion Division, Peenya Industrial area, Bangalore (2017). I primarily worked on the design & fabrication aspects of the 3-D printed humanoid arm, more specifically the servo-motor bed & finger grippers. My other significant contributions involved developing the virtual platform of the robot using ABB RobotStudio for trajectory planning for the robotic arm (in simulation and real-time). Was also involved in the electrical interfacing of the arduino micro-controller to the IRC5 controller via the custom build step-down regulator. 
         </p>
+        <center>
         <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">Project details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">Video</a>
+        </center>
     </div>
   </div>
 </div>

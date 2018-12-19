@@ -1,14 +1,13 @@
 
 <center><h1 class="rsection"><b>Bipedal walking robot using Deep Deterministic Policy Gradient</b></h1></center>
 
-<center></center><h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2></center>
+<center><h2><b>Computational Intelligence Laboratory, Aerospace Engineering Division, IISc.</b></h2></center>
 
 <div class="container-fluid">
   <div class="row">
     <!-- <div class="col-md-6">
         <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" />
     </div> -->
-    <center>
     <div class="col-md-12">
         <!-- <h3 class="rtitle"><b>Bipedal walking robot using Deep Deterministic Policy Gradient.</b></h3> -->
         <p style="text-align:justify">
@@ -21,9 +20,11 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/biped_training.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/biped_training.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
+            <center>
                 <p class="image-caption" style="font-size:14px;" align="center">
                     Fig.1 Learning to walk - initial baby steps.
                 </p>
+            </center>
             </div>
         </center>    
         <p style="text-align:justify">
@@ -33,18 +34,20 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
                     <img src="https://nav74neet.github.io/media/trained.gif" alt="DDPG" style="border:2px solid black;" align="middle">
                 </a>
+            <center>
                 <p class="image-caption" style="font-size:14px;" align="center">
                     Fig. 2 Stable Bipedal walking robot.
                 </p>
+            </center>
             </div>
         </center>
-        <p style="text-align:center" align="middle">
+        <center>
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">Code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">Paper</a>
         <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">Video</a>
-        </p>
+        </center>
     </div>
-</center>
+
   </div>
 </div>
 <br>
