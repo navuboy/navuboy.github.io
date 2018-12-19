@@ -5,6 +5,9 @@
     Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation.
 </p>
 
+<h3>Research Interests:</h3>
+<b>Robotics</b>(manipulations, motion planing, etc) | <b>Machine learning</b>(generative adversarial learning & reinforcement learning methods) | <b>Human-robot collaboration</b>.
+
 <h3>Research Experience:</h3>
 <p style="text-align:justify;">
 	 <ul>
@@ -58,7 +61,7 @@
 <h3>Publications:</h3>
 <p style="text-align:justify;">
 	 <ul>
-	 	<li>Kumar Arun, Navneet Paul and S. N. Omkar. "Bipedal Walking Robot using Deep Deterministic Policy Gradient." arXiv:1807.05924 (2018). [<a href="https://arxiv.org/abs/1807.05924" class="md-link">arxiv</a>][<a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a>]</li>
+	 	<li>Kumar Arun, Navneet Paul and S. N. Omkar. "<b>Bipedal Walking Robot using Deep Deterministic Policy Gradient.</b>" arXiv:1807.05924 (2018). [<a href="https://arxiv.org/abs/1807.05924" class="md-link">arxiv</a>][<a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a>]</li>
 	 </ul>
 </p>
 
