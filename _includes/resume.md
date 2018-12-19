@@ -70,6 +70,6 @@
 	 	<li><b>Libraries:</b> Tensorflow, Pytorch</li>
 	 	<li><b>Simulation:</b> Gazebo, Moveit, Mujoco (basics), ABB RobotStudio, Ansys Workbench</li>
 	 	<li><b>Microcontroller:</b> Aduino</li>
-	 	<li><bi>Designing and others:</bi> SolidWorks, Catia, Blender, MS-Office</li>
+	 	<li><b>Designing and others:</b> SolidWorks, Catia, Blender, MS-Office</li>
 	 </ul>
 </p>
