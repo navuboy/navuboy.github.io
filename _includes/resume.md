@@ -12,7 +12,7 @@
 <p style="text-align:justify;">
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
-  		<li><b>Project Assistant</b>, Robert Bosch Center for Cyber Physical Systems, IISc. [August, 2018 - Present]</li>
+  		<li><b>Project Assistant</b>, Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc. [August, 2018 - Present]</li>
   		<li><b>Project Assistant</b>, Advanced Flight Simulation (AFS) Laboratory & Computational Intelligence (CInt) Laboratory, Aerospace Engineering Division, IISc. [August, 2017 - July, 2018]</li>
   		<li><b>Research Intern</b>, Surface Interaction & Manufacturing (SIAM) Laboratory, Mechanical Engineering Division, IISc. [May, 2016 - July, 2016]</li>
 	</ul> 
