@@ -45,7 +45,7 @@
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
   		<li><b> Learning manipulation tasks using generative adversarial learning methods.</b></li>
-  		<p style="text-align:justify;">Using Generative Adversarial learning approaches to leverage human demonstrations for training industrial robots to learn complex manipulation tasks such peg in hole insertions. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
+  		<p style="text-align:justify;">Using generative adversarial & reinforcement learning approaches to leverage human demonstrations for training industrial robots to learn complex manipulation tasks such peg in hole insertions. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
 		<li><b>Deep Deterministic Policy Gradient for Bipedal walking robot.</b></li>
 		<p style="text-align:justify;">A bipedal walking robot was developed in Gazebo simulation environment and Reinforcement learning algorithm, Deep Deterministic Policy Gradient based on actor-critic learning framework was implemented for generating a stable planar bipedal walking patter.</p>
 		<li><b>Q-Learning for autonomous navigation of UAVs in indoor environments.</b></li>
