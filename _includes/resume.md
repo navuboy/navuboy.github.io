@@ -6,7 +6,7 @@
 </p>
 
 <h3>Research Interests:</h3>
-<b>Robotics</b>(manipulations, motion planing, etc) | <b>Machine learning</b>(generative adversarial learning & reinforcement learning methods) | <b>Haptics interface and control</b> | <b>Human-robot collaboration</b>.
+<b>Robotics</b>(manipulations, motion planing, etc) | <b>Machine learning</b>(generative adversarial learning & reinforcement learning methods) | <b>Human-robot collaboration</b>.
 
 <h3>Research Experience:</h3>
 <p style="text-align:justify;">
