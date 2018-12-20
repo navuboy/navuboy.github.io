@@ -70,7 +70,7 @@
 	 <ul>
 	 	<li><b>Programming:</b> Python, C, Matlab, TeX</li>
 	 	<li><b>Frameworks:</b> ROS, OpenAI gym</li>
-	 	<li><b>Libraries:</b> Tensorflow, Pytorch</li>
+	 	<li><b>Libraries:</b> Tensorflow</li>
 	 	<li><b>Simulation:</b> Gazebo, Moveit, Mujoco (basics), ABB RobotStudio, Ansys Workbench</li>
 	 	<li><b>Microcontroller:</b> Aduino</li>
 	 	<li><b>Designing and others:</b> SolidWorks, Catia, Blender, MS-Office</li>
