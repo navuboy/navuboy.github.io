@@ -1,3 +1,5 @@
+<main class="content" role="main" style="padding-left: 150px; padding-right:150px;">
+
 <p style="text-align:justify">
 I graduated from <strong><a href="http://www.vit.ac.in/" class="md-link">VIT University, Vellore</a></strong> with bachelors degree in Mechanical Engineering (2017). Right after graduation, I joined <strong><a href="https://new.abb.com/products/robotics" class="md-link">ABB's Robotics Motion Division</a></strong> in Bangalore as a Graduate Engineer Trainee (April,2017-August,2017). At ABB, I was part of the design and simulation team, developing the initial prototype version of Anthropomorphic Robot Arm(ARA) for collaborative robot applications.</p>  
 <br>
@@ -10,3 +12,5 @@ Prior to joining RBCCPS, I worked at the <strong><a href="https://sites.google.c
 <br>
 <p style="text-align:justify">My main research interests are in the domain of <strong>robotics(motion planing, manipulations, etc)</strong>, <strong>machine learning techniques(like generative adversarial learning & reinforcement learning)</strong>, <strong>human-robot collaboration</strong>, etc. I want to build agents that are generally intelligent and perform a wide variety of tasks rather being specific to one.</p>  
 <br>
+
+</main>
