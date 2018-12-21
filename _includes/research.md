@@ -1,5 +1,5 @@
 
-<main class="content" role="main" style="padding-left: 90px; padding-right:90px; padding-top:10px; padding-bottom:10px; ">
+
 
 <!-- <h1 class="rsection">Publications</h1>
 
@@ -191,5 +191,3 @@
     </div>
   </div>
 </div> -->
-
-</main>
