@@ -1,8 +1,8 @@
-<figure class="author-image">
+<!-- <figure class="author-image">
 	<div class="img" style="background-image:url(https://nav74neet.github.io/assets/nav.png)">
 	<a class="hidden" href="https://nav74neet.github.io/assets/nav.png" itemprop="image">Navneet Paul's Picture</a>
 	</div>
-</figure>
+</figure> -->
 
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
