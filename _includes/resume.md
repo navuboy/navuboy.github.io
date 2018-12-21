@@ -1,3 +1,4 @@
+
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
 <center><h4 class="rsection"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
@@ -6,7 +7,7 @@
 </p>
 
 <h3>Research Interests:</h3>
-<b>Robotics</b>(manipulations, motion planing, etc) | <b>Machine learning</b>(generative adversarial & reinforcement learning methods) | <b>Human-robot collaboration</b>.
+<b>Robotics</b> (manipulations, motion planing, etc) | <b>Machine learning</b> (generative adversarial & reinforcement learning methods) | <b>Human-robot collaboration</b>.
 
 <h3>Research Experience:</h3>
 <p style="text-align:justify;">
