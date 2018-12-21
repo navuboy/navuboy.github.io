@@ -1,9 +1,3 @@
-<!-- <figure class="author-image">
-	<div class="img" style="background-image:url(https://nav74neet.github.io/assets/nav.png)">
-	<a class="hidden" href="https://nav74neet.github.io/assets/nav.png" itemprop="image">Navneet Paul's Picture</a>
-	</div>
-</figure> -->
-
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
 <center><h4 class="rsection"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
