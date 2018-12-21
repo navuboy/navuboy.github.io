@@ -8,7 +8,7 @@
 
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
 </ul> -->
-
+<main class="content" role="main" style="padding-left: 120px; padding-right:120px; padding-top:10px; padding-bottom:10px; ">
 <h1 class="rsection"><b>Research</b></h1>
 
 <h3><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h3>
@@ -90,6 +90,7 @@
 </div>
 
 ---
+</main>
 
 <!-- <div class="container-fluid">
   <div class="row">
