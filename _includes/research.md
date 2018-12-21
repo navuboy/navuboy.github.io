@@ -1,5 +1,6 @@
 
-<main class="content" role="main" style="padding-left: 100px; padding-right:100px; padding-top:10px; padding-bottom:10px; ">
+<main class="content" role="main" style="padding-left: 90px; padding-right:90px; padding-top:10px; padding-bottom:10px; ">
+
 <!-- <h1 class="rsection">Publications</h1>
 
 <ul class="pubs">
@@ -8,13 +9,12 @@
     <li>Rachael E. Tompa, Blake Wulfe, Mykel J. Kochenderfer, and Michael P. Owen. "Horizontal Maneuver Coordination for Aircraft Collision-Avoidance Systems" in Journal of Aerospace Information Systems, 2018.</li>
 
     <li>Rachael E. Tompa, Blake Wulfe, Michael P. Owen, and Mykel J. Kochenderfer. "Collision avoidance for unmanned aircraft using coordination tables" in Digital Avionics Systems Conference (DASC), 2016.</li>
-</ul> -->
-
-
+</ul> --><!-- 
+<main class="content" role="main" style="padding-left: 100px; padding-right:100px; padding-top:10px; padding-bottom:10px; "> -->
 <h1 class="rsection"><b>Research</b></h1>
 
 <h3><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h3>
-<!-- <br>
+<!-- <br> -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
@@ -92,7 +92,6 @@
 </div>
 
 ---
-
 
 <!-- <div class="container-fluid">
   <div class="row">
@@ -192,4 +191,5 @@
     </div>
   </div>
 </div> -->
+
 </main>
