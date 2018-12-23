@@ -78,7 +78,7 @@
 
 <h1 class="rsection"><b>Projects</b></h1>
 
-<h3 style="border-top-style: solid;border-top-width: 0px;margin-top: -10px;"><b>ABB Robotics Motion Division, Bangalore</b>
+<h3 margin-top: -10px;"><b>ABB Robotics Motion Division, Bangalore</b>
 
 <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
   <div class="row">
