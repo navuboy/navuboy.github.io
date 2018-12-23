@@ -18,9 +18,9 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h4 class="rtitle"><b>Learning to manipulate using Generative Adversarial learning techniques.</b></h4>
-        <p style="text-align:justify">
-        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial learning & deep reinforcement learning</strong>) have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
+        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Learning to manipulate using Generative Adversarial learning techniques.</b></h4>
+        <p style="text-align:justify;padding-left: 40px;padding-right: 40px;">
+        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial learning &amp; deep reinforcement learning</strong>) have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
@@ -80,10 +80,10 @@
 
 <h3><b>ABB Robotics Motion Division, Bangalore</b></h3>
 
-<div class="container-fluid">
+<div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
   <div class="row">
     <div class="col-md-12">
-        <h4 class="rtitle"><b><a href="{{ site.github.url }}/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h4>
+        <h4 class="rtitle"><b><a href="https://nav74neet.github.io/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h4>
         <p style="text-align:justify">
         <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board. 
         </p>
