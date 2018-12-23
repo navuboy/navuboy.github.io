@@ -39,7 +39,7 @@
         <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
     </div>
     <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px;">
-        <h4 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
+        <h4 class="rtitle" font-size:1.8rem><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
         </p>
@@ -78,7 +78,7 @@
 
 <h1 class="rsection"><b>Projects</b></h1>
 
-<h3><b>ABB Robotics Motion Division, Bangalore</b></h3>
+<h3 style="border-top-style: solid;border-top-width: 0px;margin-top: -10px;"><b>ABB Robotics Motion Division, Bangalore</b>
 
 <div class="container-fluid" style="padding-left: 40px;padding-right: 40px;">
   <div class="row">
