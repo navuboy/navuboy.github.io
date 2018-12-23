@@ -38,7 +38,7 @@
         <img src="https://nav74neet.github.io/media/biped_trained.gif" alt="DDPG" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px;">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
         <p style="text-align:justify">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
@@ -50,6 +50,8 @@
   </div>
 </div>
 
+
+
 ---
 
 <h3><b>Advanced Flight Simulation Laboratory, Aerospace Engineering Division, IISc.</b></h3>
@@ -60,7 +62,7 @@
         <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px;">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/uav.html" class="main-link">Q-Learning for autonomous navigation of UAVs in indoor environments</a></b></h4>
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
