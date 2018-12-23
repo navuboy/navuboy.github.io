@@ -41,7 +41,7 @@
     <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px;">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/biped.html" class="main-link">Bipedal walking robot using Deep Deterministic Policy Gradient</a></b></h4>
         <p style="text-align:justify">
-        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.
+        The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics.[<b><a href="{{ site.github.url }}/biped.html" class="main-link">Read more</a></b>]
         </p>
         <!-- <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">paper</a>
@@ -65,7 +65,7 @@
     <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px;">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/uav.html" class="main-link">Q-Learning for autonomous navigation of UAVs in indoor environments</a></b></h4>
         <p style="text-align:justify">
-        Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
+        Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.[<b><a href="{{ site.github.url }}/uav.html" class="main-link">Read more</a></b>]
         </p>
         <!-- <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">code</a>
         <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">paper</a>
@@ -85,7 +85,7 @@
     <div class="col-md-12">
         <h4 class="rtitle"><b><a href="https://nav74neet.github.io/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h4>
         <p style="text-align:justify">
-        <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board. 
+        <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board.[<b><a href="https://nav74neet.github.io/ara.html" class="main-link">Read more</a></b>] 
         </p>
         <!-- <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a> -->
