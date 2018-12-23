@@ -57,6 +57,10 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
+        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:1px solid black;">
+        <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
+    </div>
+    <div class="col-md-6">
         <h4 class="rtitle"><b><a href="{{ site.github.url }}/uav.html" class="main-link">Q-Learning for autonomous navigation of UAVs in indoor environments</a></b></h4>
         <p style="text-align:justify">
         Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
@@ -65,11 +69,7 @@
         <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">video</a> -->
    </div>
-   <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:1px solid black;">
-        <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
-    </div>
-  </div>
+   </div>
 </div>
 
 ---
