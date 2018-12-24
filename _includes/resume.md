@@ -1,3 +1,4 @@
+<main class="content" role="main" style="padding-left: 100px; padding-right:100px;">
 
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
@@ -77,3 +78,5 @@
 	 	<li><b>Designing and others:</b> SolidWorks, Catia, Blender, MS-Office</li>
 	 </ul>
 </p>
+
+</main>
