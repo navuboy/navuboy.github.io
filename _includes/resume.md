@@ -74,7 +74,7 @@
 	 	<li><b>Frameworks:</b> ROS, OpenAI gym</li>
 	 	<li><b>Libraries:</b> Tensorflow</li>
 	 	<li><b>Simulation:</b> Gazebo, Moveit, Mujoco (basics), ABB RobotStudio, Ansys Workbench</li>
-	 	<li><b>Microcontroller:</b> Aduino</li>
+	 	<li><b>Microcontroller:</b> Arduino</li>
 	 	<li><b>Designing and others:</b> SolidWorks, Catia, Blender, MS-Office</li>
 	 </ul>
 </p>
