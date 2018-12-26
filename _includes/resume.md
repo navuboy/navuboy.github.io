@@ -48,14 +48,14 @@
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
   		<li><b> Learning manipulation tasks using generative adversarial learning methods.</b></li>
-  		<p style="text-align:justify;">Using generative adversarial & reinforcement learning approaches to leverage human demonstrations for training industrial robots to learn complex manipulation tasks such peg in hole insertions. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
+  		<p style="text-align:justify;">Using generative adversarial & deep reinforcement learning approaches to leverage human demonstrations for training industrial robots to learn complex manipulation tasks such as peg in hole insertions. The initial phase is development of simulation framework using ROS and Gazebo. Later aiminig for simulation to real world transfer through domain randomization, sim2real approaches, etc.</p>
 		<li><b>Deep Deterministic Policy Gradient for Bipedal walking robot.</b></li>
 		<p style="text-align:justify;">A bipedal walking robot was developed in Gazebo simulation environment and Reinforcement learning algorithm, Deep Deterministic Policy Gradient based on actor-critic learning framework was implemented for generating a stable planar bipedal walking patter.</p>
 		<li><b>Q-Learning for autonomous navigation of UAVs in indoor environments.</b></li>
 		<p style="text-align:justify;">Q-Learning with a simple PID tuned control was adopted for the autonomous navigation of an ArDrone in a 5x5 grid space in simulation environment.</p>
 		<li><b>Anthropomorphic Robot Arm (ARA).</b></li>
-		<p style="text-align:justify;">A 3D printed humanoid arm(with 5 DOF) is attached to the ABB IRB
-		1600 ID industrial robot, actuated using servomotors controlled using an Arduino Uno microcontroller
+		<p style="text-align:justify;">A 3D printed humanoid arm(with 5 DoF) is attached to the ABB IRB
+		1600 ID industrial robot(6 DoF), actuated using servomotors controlled using an Arduino Uno microcontroller
 		which is interfaced to the ABB IRC5 controller via a custom build step-down voltage regulator circuit
 		board.</p>
 	</ul> 
