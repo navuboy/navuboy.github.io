@@ -1,4 +1,4 @@
-<main class="content" role="main" style="padding-left: 5px; padding-right:5px;">
+<main class="content" role="main" style="padding-left: 5px; padding-right:5px; font-size: 105%;">
 
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
