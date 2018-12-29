@@ -14,8 +14,8 @@
         <!-- <img class="center" src="{{ site.github.url }}/media/abb.png" /> -->
         <center>
             <div class="image-wrapper">
-                <a class ="image-popup" href="https://nav74neet.github.io/media/abb.png" title="ABB">
-                    <img src="https://nav74neet.github.io/media/abb.png" alt="ABB" style="border:2px solid black;" align="middle">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/ara-type.gif" title="ABB">
+                    <img src="https://nav74neet.github.io/media/ara-type.gif" alt="ABB" style="border:2px solid black;" align="middle">
                 </a>
                 <center>
                 <p class="image-caption" style="font-size:14px; text-align:center;">
