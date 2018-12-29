@@ -1,7 +1,7 @@
 <main class="content" role="main" style="padding-left: 5px; padding-right:5px; font-size: 105%;">
 
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
-<h3><center>Curriculum Vitae<a href="{{ site.github.url }}/assets/resume.pdf" class="md-link btn-default btn rbtn">pdf</a></center></h3>
+<h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
 <center><h4 class="rsection"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
 
 <p style="text-align:justify">
