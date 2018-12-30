@@ -42,6 +42,13 @@
             </div>
         </center>
         <p style="text-align:center;">
+            <b>References:</b> 
+            <ol>
+                <li>Lillicrap, Timothy P., et al.<b><a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning.</a></b> arXiv preprint arXiv:1509.02971 (2015).</li>
+                <li>Silver, David, et al.<b><a href="http://proceedings.mlr.press/v32/silver14.pdf"> Deterministic Policy Gradient Algorithms.</a></b> ICML (2014).</li>
+            </ol>
+        </p>
+        <p style="text-align:center;">
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">Code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">Paper</a>
         <a href="https://www.youtube.com/watch?v=Q4N78P7cink" class="md-link btn-default btn rbtn">Video</a>
