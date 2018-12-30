@@ -9,7 +9,7 @@
     </div> -->
     <div class="col-md-12">
         <!-- <h3 class="rtitle"><b>Bipedal walking robot using Deep Deterministic Policy Gradient.</b></h3> -->
-        <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        <p style="text-align:justify; font-family: 'Merriweather','Hiragino Sans GB','Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         Indoor Path Planning and Navigation of an ArDrone based on simple <strong>PID control+Q-Learning</strong>. The quadrotor learns to manoeuvres towards the goal point, along the uniform grid distribution(5X5) in the simulation environment based on a reward of -1 while not ending up in the goal state and a reward of +100 for reaching the goal.
         </p>
         <br>
@@ -23,7 +23,7 @@
                 </p>
             </div>
         </center>
-        <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB','Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
             <b>Reference:</b> Pham, Huy X., et al. "<b>Autonomous uav navigation using reinforcement learning.</b>" arXiv preprint arXiv:1801.05086 (2018).[<a href="https://arxiv.org/abs/1801.05086" class="md-link">arxiv</a>]</p>
         <br>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">

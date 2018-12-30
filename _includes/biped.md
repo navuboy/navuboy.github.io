@@ -43,7 +43,7 @@
         </center>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
             <b>References:</b> 
-            <ol>
+            <ol style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
                 <li>Lillicrap, Timothy P., et al.<b>Continuous control with deep reinforcement learning.</b> arXiv preprint arXiv:1509.02971 (2015).[<a href="https://arxiv.org/abs/1509.02971">pdf</a>]</li>
                 <li>Silver, David, et al.<b>Deterministic Policy Gradient Algorithms.</b> ICML (2014).[<a href="http://proceedings.mlr.press/v32/silver14.pdf">pdf</a>]</li>
             </ol>
