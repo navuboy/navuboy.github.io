@@ -1,4 +1,4 @@
-<main class="content" role="main" style="padding-left: 5px; padding-right:5px; font-size: 105%;">
+<main class="content" role="main" style="padding-left: 5px; padding-right:5px; font-size: 105%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
 
 <h2 class="rsection"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link">Curriculum Vitae</a></center></h3>
