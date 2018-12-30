@@ -2,7 +2,7 @@
 
 <h2 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">Curriculum Vitae</a></center></h3>
-<center><h4 class="rsection"style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
+<center><h4 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></h4></center>
 
 <p style="text-align:justify">
     Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation.
