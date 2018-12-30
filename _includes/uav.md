@@ -23,10 +23,11 @@
                 </p>
             </div>
         </center>
+        <p><b>Reference:</b> Pham, Huy X., et al. "Autonomous uav navigation using reinforcement learning." arXiv preprint arXiv:1801.05086 (2018).[<a href="https://arxiv.org/abs/1801.05086" class="md-link">arxiv</a>]</p>
         <p>
         <!-- <img class="center" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
         <a href="https://github.com/nav74neet/rl_ardrone" class="md-link btn-default btn rbtn">Code</a>
-        <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">Paper</a>
+        <!-- <a href="https://arxiv.org/abs/1801.05086" class="md-link btn-default btn rbtn">Paper</a> -->
         <a href="https://www.youtube.com/watch?v=SDqPfhUeoCo&feature=youtu.be" class="md-link btn-default btn rbtn">Video</a>
         </p>
   </div>
