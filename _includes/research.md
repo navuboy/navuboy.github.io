@@ -18,7 +18,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><b>Learning to manipulate using Generative Adversarial learning techniques.</b></h4>
+        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Learning to manipulate using Generative Adversarial learning techniques.</b></h4>
         <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Learning based methods (based on <strong>generative adversarial learning &amp; deep reinforcement learning</strong>) have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
