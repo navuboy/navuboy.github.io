@@ -44,8 +44,8 @@
         <p style="text-align:justify;">
             <b>References:</b> 
             <ol>
-                <li>Lillicrap, Timothy P., et al.<b><a href="https://arxiv.org/abs/1509.02971"> Continuous control with deep reinforcement learning.</a></b> arXiv preprint arXiv:1509.02971 (2015).</li>
-                <li>Silver, David, et al.<b><a href="http://proceedings.mlr.press/v32/silver14.pdf"> Deterministic Policy Gradient Algorithms.</a></b> ICML (2014).</li>
+                <li>Lillicrap, Timothy P., et al.<b>Continuous control with deep reinforcement learning.</b> arXiv preprint arXiv:1509.02971 (2015).[<a href="https://arxiv.org/abs/1509.02971">pdf</a>]</li>
+                <li>Silver, David, et al.<b>Deterministic Policy Gradient Algorithms.</b> ICML (2014).[<a href="http://proceedings.mlr.press/v32/silver14.pdf">pdf</a>]</li>
             </ol>
         </p>
         <p style="text-align:justify;">
