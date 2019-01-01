@@ -28,7 +28,7 @@
             </div>
         </center>    
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
+        After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s [see Fig.2]. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
         <center>
             <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">

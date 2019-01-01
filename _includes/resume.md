@@ -37,7 +37,7 @@
 	 <!-- <ul style="list-style-type:circle"> -->
   		<li><b> B.Tech Mechanical Engineering, VIT University, Vellore.</b></li>
   			<ul style="list-style-type:circle">
-  				<li><b>Cumulative Grade Point Average(CGPA):</b> 8.3/10</li>
+  				<li><b>CGPA:</b> 8.3/10</li>
   				<li><b>Duration:</b> July, 2013 - May, 2017</li>
   			</ul>
 	</ul> 
