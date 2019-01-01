@@ -82,17 +82,13 @@
 
 <div class="container-fluid" style="padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
   <div class="row">
-    <div class="col-md-7">
+    <div class="col-md-12">
         <h4 class="rtitle"><b><a href="https://nav74neet.github.io/ara.html" class="main-link">Anthropomorphic Robotic Arm(ARA)</a></b></h4>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         <strong>A.R.A.</strong> - acronym for <strong>Anthropomorphic Robotic Arm</strong> aims at implementing a collaborative robot environment for various  industrial automation process. A 3D printed humanoid arm(with 5 DOF) is attached to the <strong>ABB IRB 1600 ID</strong> industrial robot to improve its dexterity and manupulation abilities. Actuation of robotic fingers is achieved using servomotors controlled using an Arduino Uno microcontroller which is interfaced to the <strong>ABB IRC5 controller</strong> via a custom designed step-down voltage regulator circuit board. <a href="https://nav74neet.github.io/ara.html" class="main-link"><b>Read more</b></a>
         </p>
         <!-- <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">video</a> -->
-    </div>
-    <div class="col-md-5">
-        <img src="https://nav74neet.github.io/media/ara-type.gif" alt="ARA" style="border:1px solid black;">
-        <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
     </div>
   </div>
 </div>
