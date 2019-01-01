@@ -5,7 +5,7 @@
 <h4 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">Twitter</a> |  <a href="https://www.linkedin.com/in/navneet-paul-94a806101/" class="md-link">LinkedIn</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></center></h4>
 
 <p style="text-align:justify">
-    Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation.
+    Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation & haptics interface.
 </p>
 
 <h3>Research Interests:</h3>
