@@ -31,6 +31,18 @@
         <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">Project details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">Video</a>
         </p>
+        <center>
+            <div class="image-wrapper">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/ara_graso.gif" title="grasp">
+                    <img src="https://nav74neet.github.io/media/ara_grasp.gif" alt="grasp" style="border:2px solid black;" align="middle">
+                </a>
+                <center>
+                <p class="image-caption" style="font-size:14px; text-align:center;">
+                    Object grasping and manipulation. 
+                </p>
+                </center>
+            </div>
+        </center>
     </div>
   </div>
 </div>
