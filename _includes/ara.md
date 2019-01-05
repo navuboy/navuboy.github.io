@@ -19,7 +19,7 @@
                 </a>
                 <center>
                 <p class="image-caption" style="font-size:14px; text-align:center;">
-                    Anthropomorphic Robot Arm (ARA) at the ABB Robotics Motion Division, Banagalore.
+                    Fig.1 Anthropomorphic Robot Arm (ARA) at the ABB Robotics Motion Division, Banagalore.
                 </p>
                 </center>
             </div>
@@ -34,7 +34,7 @@
                 </a>
                 <center>
                 <p class="image-caption" style="font-size:14px; text-align:center;">
-                    Object grasping and manipulation. 
+                    Fig.2 Object grasping and manipulation. 
                 </p>
                 </center>
             </div>
