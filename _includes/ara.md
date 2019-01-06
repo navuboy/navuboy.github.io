@@ -40,6 +40,9 @@
             </div>
         </center>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        The robot  
+        </p>
+        <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         <a href="https://bit.ly/2r5CcPp" class="md-link btn-default btn rbtn">Project details</a>
         <a href="https://youtu.be/xqaQjo5hS6o" class="md-link btn-default btn rbtn">Video</a>
         </p>
