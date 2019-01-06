@@ -1,5 +1,6 @@
-<h3>Contact:</h3>
-<p>
+<h2 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><b>Contact</b></center></h2>
+
+<p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
 	<ul>
 	 	<li><b>Mail</b>: nav74neet.paul [at] gmail.com</li>
   		<li><b>Twitter</b>: <a href="https://twitter.com/nav74neet" class="md-link">@nav74neet</a></li>
