@@ -1,6 +1,6 @@
-<h2 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><b>Contact</b></center></h2>
+<h1 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><b>Contact</b></h1>
 
-<main class="content" role="main" style="padding-left: 90px; padding-right:90px; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei',sans-serif">
+<main class="content" role="main" style="padding-left: 50px; padding-right:50px; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei',sans-serif">
 
 <p>
 	<ul>
