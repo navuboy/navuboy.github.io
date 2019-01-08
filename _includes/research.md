@@ -18,9 +18,9 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-12">
-        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Learning to manipulate using Inverse Reinforcement learning techniques.</b></h4>
+        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Learning manipulation tasks using Inverse Reinforcement learning methods.</b></h4>
         <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Inverse reinforcement learning based methods (like <strong>generative adversarial imitation learning</strong>) have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
+        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Inverse reinforcement learning techniques(like <strong>generative adversarial imitation learning</strong>)  &amp; <strong>deep reinforcement learning methods</strong> have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
