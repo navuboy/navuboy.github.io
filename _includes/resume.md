@@ -80,4 +80,12 @@
 	 </ul>
 </p>
 
+<h3>Reference(s):</h3>
+<p style="text-align:justify;">
+	 <ul>
+	 	<li><b><a href="http://www.cense.iisc.ac.in/bharadwaj-amrutur" class="md-link">Dr. Bharadwaj Amrutur</a></b>, Dept. of Electrical Communication Engineering & RBCCPS, IISc. [email: amrutur@iisc.ac.in]</li>
+	 	<li><b><a href="https://shishirny.github.io/" class="md-link">Dr. Shishir N Y Kolathaya</a></b>, RBCCPS, IISc. [email: hishirk@iisc.ac.in]</li>
+	 </ul>
+</p>
+
 </main>
