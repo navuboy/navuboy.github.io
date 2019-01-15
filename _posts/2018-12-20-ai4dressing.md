@@ -1,5 +1,4 @@
 ---
-
 layout: post
 title:  "When AI learnt to dress!"
 date:   2018-06-12
