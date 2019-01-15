@@ -2,7 +2,7 @@
 
 layout: post
 title:  "When AI learnt to dress!"
-date:   2018-12-18
+date:   2018-12-20
 categories: [rl]
 description: Learning to Dress: Synthesizing Human Dressing Motion via Deep Reinforcement Learning.
 tags: deep reinforcement learning, character animation, nueral networks,
