@@ -14,3 +14,8 @@
         </center> -->
     </div>
 </center>  
+
+<br>
+
+<p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">Machine Learning approaches such as inverse reinforcement learning and deep reinforcement learning techniques have a huge advantage of leveraging prior human demonstration data. Especially in the domain of robot manipulations, where the robot learns from the previously generated data from human demos for tasks such as pick and place, peg in hole insertions, etc. My current research work is related towards exploring such methods for effective manipulation in structured as well as unstructured environments.
+</p>
