@@ -18,7 +18,7 @@
         <center>
             <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/blog/ac_network.jpg" title="ACN">
-                    <img src="https://nav74neet.github.io/media/blog/ac_network.jpg" alt="ACN" style="border:2px solid black;" align="middle">
+                    <img src="https://nav74neet.github.io/media/blog/ac_network.jpg" alt="ACN" align="middle">
                 </a>
             <center>
                 <p class="image-caption" style="font-size:14px; text-align: center;">
