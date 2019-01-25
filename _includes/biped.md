@@ -28,7 +28,8 @@
             </div>
         </center>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        The State space includes robot joint angles, joint angular velocities, waist height, etc. The action space covers the predicted joint torques.</p>
+        The <b>State space</b> includes <b>robot joint angles</b>, <b>joint angular velocities</b>, <b>waist height</b>, etc. The <b>action space</b> covers the predicted <b>joint torques</b>.</p>
+        <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         <center>
             <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/biped_training.gif" title="DDPG">
@@ -36,13 +37,13 @@
                 </a>
             <center>
                 <p class="image-caption" style="font-size:14px; text-align: center;">
-                    Fig.1 Learning to walk - initial baby steps.
+                    Fig.2 Learning to walk - initial baby steps.
                 </p>
             </center>
             </div>
         </center>    
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        The robot demonstrates successful walking behaviour by learning through several of its trial and errors, without any prior knowledge of itself or the world dynamics. After training the model in simulation, it was observed that, with a proper shaped reward function, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s [see Fig.2]. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
+        The robot demonstrates successful walking behaviour by learning through several of its trial and errors, <b>without any prior knowledge of itself or the world dynamics</b>. After training the model in simulation, it was observed that, with a <b>proper shaped reward function</b>, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s [see Fig.2]. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
         <center>
             <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/trained.gif" title="DDPG">
