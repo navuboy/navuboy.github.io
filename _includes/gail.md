@@ -9,8 +9,8 @@
 
 <center>
     <div class="image-wrapper">
-                <a class ="image-popup" href="https://nav74neet.github.io/media/sawyer_env.png" title="sawyer">
-                    <img src="https://nav74neet.github.io/media/sawyer_env.png" alt="sawyer" style="border:2px solid black;" align="middle">
+                <a class ="image-popup" href="https://nav74neet.github.io/media/human_demos.gif" title="sawyer">
+                    <img src="https://nav74neet.github.io/media/human_demos.gif" alt="sawyer" style="border:2px solid black;" align="middle">
                 </a>
         <!-- <center>
             <p class="image-caption" style="font-size:14px; text-align: center;">
@@ -21,4 +21,6 @@
 </center>  
 
 <br>
+
+<p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">Future progress will be updated soon</p>
 
