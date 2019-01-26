@@ -12,15 +12,15 @@
                 <a class ="image-popup" href="https://nav74neet.github.io/media/human_demos.gif" title="sawyer">
                     <img src="https://nav74neet.github.io/media/human_demos.gif" alt="sawyer" style="border:2px solid black;" align="middle">
                 </a>
-        <!-- <center>
+        <center>
             <p class="image-caption" style="font-size:14px; text-align: center;">
-                    Fig.1 Learning to walk - initial baby steps.
+                    Fig.1 Peg in hole insertion task.
             </p>
-        </center> -->
+        </center>
     </div>
 </center>  
 
 <br>
 
-<p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">Future progress will be updated soon</p>
+<p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><b>Note</b>: Future progress will be updated soon</p>
 
