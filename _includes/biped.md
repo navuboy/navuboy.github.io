@@ -15,6 +15,7 @@
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         The autonomous stable walking of the planar bipedal walker in simulation environment is achieved using <strong>Deep Deterministic Policy Gradient(DDPG)</strong> based on an <strong>actor-critic learning framework</strong> [for continuos action space]. 
         </p>
+        <br>
         <center>
             <div class="image-wrapper">
                 <a class ="image-popup" href="https://nav74neet.github.io/media/blog/ac_network.jpg" title="ACN">
@@ -27,6 +28,7 @@
             </center>
             </div>
         </center>
+        <br>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         The <b>State space</b> includes <b>robot joint angles</b>, <b>joint angular velocities</b>, <b>waist height</b>, etc. The <b>action space</b> covers the predicted <b>joint torques</b>.</p>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
@@ -41,7 +43,8 @@
                 </p>
             </center>
             </div>
-        </center>    
+        </center>
+        <br>    
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         The robot demonstrates successful walking behaviour by learning through several of its trial and errors, <b>without any prior knowledge of itself or the world dynamics</b>. After training the model in simulation, it was observed that, with a <b>proper shaped reward function</b>, the robot achieved faster walking or even rendered a running gait with an average speed of 0.83 m/s [see Fig.2]. The gait pattern of the bipedal walker was compared with the actual human walking pattern. The results show that the bipedal walking pattern had similar characteristics to that of a human walking pattern.</p>
         <center>
@@ -63,6 +66,7 @@
                 <li>Silver, David, et al.<b>Deterministic Policy Gradient Algorithms.</b> ICML (2014).[<a href="http://proceedings.mlr.press/v32/silver14.pdf">pdf</a>]</li>
             </ol>
         </p>
+        <br>
         <p style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         <a href="https://github.com/nav74neet/ddpg_biped" class="md-link btn-default btn rbtn">Code</a>
         <a href="https://arxiv.org/abs/1807.05924" class="md-link btn-default btn rbtn">Paper</a>
