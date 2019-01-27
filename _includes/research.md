@@ -19,7 +19,7 @@
   <div class="row">
     <div class="row">
     <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/blog/trained_ppo.gif" alt="DDPG" style="border:1px solid black;">
+        <img src="https://nav74neet.github.io/media/blog/trained_ppo.gif" alt="PPO" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
     </div>
     <div class="col-md-6">
