@@ -18,7 +18,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/human_demos.gif" height="400" width="450" alt="humandemos" style="border:1px solid black;">
+        <img src="https://nav74neet.github.io/media/human_demos.gif" height="350" width="450" alt="humandemos" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
     </div>
     <div class="col-md-6">
