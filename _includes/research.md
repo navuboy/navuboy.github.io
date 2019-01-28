@@ -17,11 +17,7 @@
 <!-- <br> -->
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/human_demos.gif" height="350" width="450" alt="humandemos" style="border:1px solid black;">
-        <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
-    </div>
-    <div class="col-md-6">
+    <div class="col-md-12">
         <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b><a href="{{ site.github.url }}/gail.html" class="main-link">Learning manipulation tasks using Inverse Reinforcement learning methods</a></b></h4>
         <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
         Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Inverse reinforcement learning techniques(like <strong>generative adversarial imitation learning</strong>)  &amp; <strong>deep reinforcement learning methods</strong> have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
