@@ -35,7 +35,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/biped_trained.gif" alt="DDPG" style="height:80%; width:60%; border:1px solid black;">
+        <img src="https://nav74neet.github.io/media/biped_trained.gif" alt="DDPG" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/biped_trained.gif" /> -->
     </div>
     <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px; font-size:85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
@@ -59,7 +59,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-6">
-        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="height: 80%; width: 60%; border:1px solid black;">
+        <img src="https://nav74neet.github.io/media/drone_qlearning.gif" alt="UAV" style="border:1px solid black;">
         <!-- <img class="rimg" src="{{ site.github.url }}/media/drone_qlearning.gif" /> -->
     </div>
     <div class="col-md-6" style="padding-left: 30px;padding-right: 30px;margin-left: -30px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
