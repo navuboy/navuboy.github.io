@@ -25,7 +25,7 @@ nav74neet:
   initial:      nav74neet
   name:         "Navneet Paul"
   cover:        /assets/iisc_2.jpeg
-  picture:      /assets/nav.png
+  picture:      /assets/mypic.png
   bio:          Robotics & Machine Learning Researcher.
   location:     Bangalore
   website:      "http://nav74neet.github.io/"

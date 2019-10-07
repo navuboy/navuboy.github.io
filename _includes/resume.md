@@ -2,7 +2,7 @@
 
 <h2 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><b>Navneet Paul</b></center></h2>
 <h3><center><a href="{{ site.github.url }}/assets/resume.pdf" class="main-link" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">Curriculum Vitae</a></center></h3>
-<h4 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@iisc.ac.in</a> | <a href="https://twitter.com/nav74neet" class="md-link">@nav74neet</a> |  <a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></center></h4>
+<h4 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@student.utwente.nl</a> | <a href="https://twitter.com/nav74neet" class="md-link">@nav74neet</a> |  <a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></center></h4>
 
 <p style="text-align:justify">
     Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation & haptics interface.
@@ -32,6 +32,16 @@
 </p>
 
 <h3>Education:</h3>
+<p style="text-align:justify;">
+	 <ul>
+	 <!-- <ul style="list-style-type:circle"> -->
+  		<li><b> MSc Systems and Controls (specialization: Robotics and Mechatronics), Universiteit Twente, Enschede, Netherlands </b></li>
+  			<ul style="list-style-type:circle">
+  				<!-- <li><b>CGPA:</b> 8.3/10</li> -->
+  				<li><b>Duration:</b> September, 2019 - Present</li>
+  			</ul>
+	</ul> 
+</p>
 <p style="text-align:justify;">
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
