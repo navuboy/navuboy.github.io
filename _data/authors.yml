@@ -6,7 +6,7 @@ default:
   bio:          Robotics & Machine Learning Researcher
   location:     Bangalore
   website:      "http://nav74neet.github.io/about"
-  email:        navneetpaul@iisc.ac.in
+  email:        navneetpaul@student.utwente.nl
   twitter:
   resume:       true
   linkedin:
@@ -26,7 +26,7 @@ nav74neet:
   name:         "Navneet Paul"
   cover:        /assets/iisc_2.jpeg
   picture:      /assets/mypic.png
-  bio:          Robotics & Machine Learning Researcher.
+  bio:          Masters Student @UTwente | Robotics & Machine Learning Researcher.
   location:     Bangalore
   website:      "http://nav74neet.github.io/"
   github:       nav74neet
