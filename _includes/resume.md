@@ -35,7 +35,7 @@
 <p style="text-align:justify;">
 	 <ul>
 	 <!-- <ul style="list-style-type:circle"> -->
-  		<li><b> MSc Systems and Controls (specialization: Robotics and Mechatronics), Universiteit Twente, Enschede, Netherlands </b></li>
+  		<li><b> MSc Electrical Engineering (specialization: Robotics and Mechatronics), Universiteit Twente, Enschede, Netherlands </b></li>
   			<ul style="list-style-type:circle">
   				<!-- <li><b>CGPA:</b> 8.3/10</li> -->
   				<li><b>Duration:</b> September, 2019 - Present</li>
