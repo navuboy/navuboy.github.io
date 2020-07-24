@@ -1,7 +1,9 @@
 <h1 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><b>Contact</b></center></h1>
 
 <main class="content" role="main" style="padding-left: 50px; padding-right:50px; font-size: 15px; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei',sans-serif">
-
+<p> 
+	Feel free to reach out to me anytime! :)
+</p>
 <p>
 	<ul>
 	 	<li><b>Mail</b>: nav74neet.paul [at] gmail.com</li>
