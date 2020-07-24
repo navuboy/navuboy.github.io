@@ -5,7 +5,8 @@
 <h4 class="rsection" style="text-align:justify; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;"><center><a href="https://bit.ly/2rBGAWt" class="md-link">navneetpaul@student.utwente.nl</a> | <a href="https://twitter.com/nav74neet" class="md-link">@nav74neet</a> |  <a href="https://scholar.google.co.in/citations?user=Wbz-jYwAAAAJ&hl=en" class="md-link">Google Scholar</a><!-- <a href="https://bit.ly/2A3Oi02" class="md-link">Google Scholar</a> --></center></h4>
 
 <p style="text-align:justify">
-    Robotics and machine learning researcher at Robert Bosch Center for Cyber Physical Systems (RBCCPS), IISc, Bangalore. Current research relates to fusion of machine learning techniques (Reinforcement learning and generative adversarial networks) & control theory in the domain of robot manipulation & haptics interface.
+Masters student(MSc) in Electrical Engineering with specilization in Robotics and Mechatronics, at Universiteit Twente. Research interest relate to computer vision, fusion of machine learning techniques (deep reinforcement learning and inverse reinforcement learning) & control theory in the domain of
+robot manipulations, legged-robot locomotion strategies, robot teleoperation, etc.
 </p>
 
 <h3>Research Interests:</h3>
