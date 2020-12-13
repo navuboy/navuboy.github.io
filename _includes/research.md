@@ -20,7 +20,7 @@
     <div class="col-md-12">
         <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Generation of photorealistic scenes using vid2vid & pix2pixhd approaches.</b></h4>
         <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        Generating photorealisticsimulated scenes from the video/images for trainingautonomous agricultural robots at Lely using vid2vid and pix2pixhd approaches. We use a generative adversarial learning framework while synthesizing the simulated scenes from semantic and instance maps. These simulated scenes could be further used forimproving the training and testing of robots. [<b>on-going project</b>]
+        Generating photorealisticsimulated scenes from the video/images for training autonomous agricultural robots at Lely using vid2vid and pix2pixhd approaches. We use a generative adversarial learning framework while synthesizing the simulated scenes from semantic and instance maps. These simulated scenes could be further used forimproving the training and testing of robots. [<b>on-going project</b>]
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
