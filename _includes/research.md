@@ -13,6 +13,23 @@
 <main class="content" role="main" style="padding-left: 100px; padding-right:100px; padding-top:10px; padding-bottom:10px; "> -->
 <h1 class="rsection"><b>Research</b></h1>
 
+<h3><b>Lely Center, Maassluis</b></h3>
+<!-- <br> -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+        <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b>Generation of photorealistic scenes using vid2vid & pix2pixhd approaches.</b></h4>
+        <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
+        Generating photorealisticsimulated scenes from the video/images for trainingautonomous agricultural robots at Lely using vid2vid and pix2pixhd approaches. We use a generative adversarial learning framework while synthesizing the simulated scenes from semantic and instance maps. These simulated scenes could be further used forimproving the training and testing of robots. [<b>on-going project</b>]
+        </p>
+        <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
+        <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
+    </div>
+  </div>
+</div>
+
+---
+
 <h3><b>Robert Bosch Center for Cyber Physical Systems, IISc.</b></h3>
 <!-- <br> -->
 <div class="container-fluid">
@@ -20,7 +37,7 @@
     <div class="col-md-12">
         <h4 class="rtitle" style="padding-left: 40px;padding-right: 40px;"><b><a href="{{ site.github.url }}/gail.html" class="main-link">Learning manipulation tasks using Inverse Reinforcement learning methods</a></b></h4>
         <p style="text-align:justify;padding-left: 40px;padding-right: 40px; font-size: 85%; font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;">
-        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Inverse reinforcement learning techniques(like <strong>generative adversarial imitation learning</strong>)  &amp; <strong>deep reinforcement learning methods</strong> have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems. [<b>on-going project</b>] <!-- In collaboration with Yaskawa India Private Limited. -->
+        Current research relates to the fusion of machine learning and control theory in the domain of manipulation. Inverse reinforcement learning techniques(like <strong>generative adversarial imitation learning</strong>)  &amp; <strong>deep reinforcement learning methods</strong> have a huge advantage of leveraging prior <b>human demonstrations</b> to acquire seemingly simple control tasks (like peg-in-hole insertion or even a simple pick and place) for realizing a wide variety of complex behaviors in nonlinear systems.<!-- In collaboration with Yaskawa India Private Limited. -->
         </p>
         <!-- <a href="{{ site.github.url }}/assets/IS_Final_Paper.pdf" class="md-link btn-default btn rbtn">paper</a>
         <a href="https://github.com/wulfebw/Independent_Study" class="md-link btn-default btn rbtn">code</a> -->
