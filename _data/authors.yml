@@ -24,7 +24,7 @@ default:
 nav74neet:
   initial:      nav74neet
   name:         "Navneet Paul"
-  cover:        /assets/iisc_2.jpeg
+  cover:        /assets/wall.png
   picture:      /assets/mypic.png
   bio:          Masters Student @UTwente | Robotics & Machine Learning Researcher.
   location:     Bangalore
