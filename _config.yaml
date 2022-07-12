@@ -4,10 +4,10 @@ description:      Navneet's Personal Website.
 keywords:         robotics, reinforcement learning, imitation learning, machine learning, artificial intelligence,
 language:         "en"
 baseurl:          ""
-url:              "http://nav74neet.github.io/"
+url:              "http://navuboy.github.io/"
 permalink:        /blog/:categories/:title
 cover:            /assets/machu_lacta.jpg
-disqus_shortname: "nav74neet"
+disqus_shortname: "navuboy"
 
 # Build settings
 markdown: kramdown
